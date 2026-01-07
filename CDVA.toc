@@ -1,0 +1,12 @@
+## Interface: 11508
+## Interface-TBC: 20505
+## Title: CDVA
+## Author: Fightts
+## Version: 1.15
+## SavedVariables: CDVASavedVars
+
+UI.lua
+core.lua
+
+
+/dump select(4, GetBuildInfo())
