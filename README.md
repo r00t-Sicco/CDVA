@@ -86,7 +86,7 @@ CDVA/
 
 ```text
 World of Warcraft/
-└── _retail_/
+└── _version_/
     └── Interface/
         └── AddOns/
             └── CDVA/
