@@ -1,10 +1,24 @@
+<p align="center">
+  <img src="screenshots/cdva-banner.png" alt="CDVA - Cooldown Vocal Announcer" width="100%">
+</p>
+
 # 🔊 CDVA — Cooldown Vocal Announcer
 
 **Stay focused on the fight, not your action bars.**
 
-CDVA is a lightweight **World of Warcraft addon** that provides real-time vocal announcements for spell cooldowns, helping players track important abilities without constantly watching UI elements.
+CDVA is a lightweight World of Warcraft addon that provides real-time vocal announcements for spell cooldowns, helping players track important abilities without constantly watching UI elements.
 
-Built in **Lua**, CDVA is compatible with multiple versions of World of Warcraft and has been used by **5,000+ players**.
+Built in **Lua** and used by **5,000+ players**.
+
+---
+
+## 🎮 CDVA In Game
+
+<p align="center">
+  <img src="screenshots/cdva-ingame.png" alt="CDVA running in World of Warcraft" width="90%">
+</p>
+
+*CDVA's in-game interface for configuring vocal cooldown announcements.*
 
 ---
 
